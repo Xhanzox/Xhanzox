@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+@font-face {
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(fonts/Fascinate-Regular.ttf); /* Путь к файлу со шрифтом */
+   } 
+  div{
+    position: fixed;
+    left: 20px;
+    bottom: 25px;
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  a{
+      padding: 5px;
+  }
+  
+  a:visited {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    color:rgb(128, 128, 128);
+    text-decoration: none;
+  }
+
+  body {
+    background-image: url('https://images.hdqwalls.com/wallpapers/samurai-dark-night-minimal-4k-9t.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: #ffffff;
+    font-family: 'Fascinate', cursive;
+  }
+  p{
+    font-size: 70px;
+    
+    text-align: center;
+    
+  }
