@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" href="4784736-middle.png">
+    <link rel="icon" href="https://img.favpng.com/10/0/3/anime-icon-away-icon-face-icon-png-favpng-kQqBnHR7jN8TxGRq3TJhqzewe.jpg">
     <link href='http://fonts.googleapis.com/css?family=Philosopher&subset=cyrillic' rel='stylesheet' type='text/css'>
     
       <title>X a n z o</title>
