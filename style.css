@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fascinate&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fruktur&family=Open+Sans:ital,wght@0,700;1,400&display=swap');
 @font-face {
     font-family: Pompadur; /* Гарнитура шрифта */
     src: url(fonts/Fascinate-Regular.ttf); /* Путь к файлу со шрифтом */
@@ -16,24 +16,29 @@
   }
   
   a:visited {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-decoration: none;
   }
   a:hover {
-    color:rgb(128, 128, 128);
+    color:rgb(40, 86, 172);
     text-decoration: none;
   }
 
   body {
-    background-image: url('https://wallpaperaccess.com/full/1397755.jpg');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 300px;
+    background-image: url(http://getwallpapers.com/wallpaper/full/1/9/3/861434-top-anime-background-1920x1080-xiaomi.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    color: #ffffff;
+    color:  #000009;
     font-family: 'Fascinate', cursive;
   }
   p{
-    font-size: 70px;
+    font-size: 50px;
     
     text-align: center;
     
