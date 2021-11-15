@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,33 +7,26 @@
     <link rel="icon" href="https://img.favpng.com/10/0/3/anime-icon-away-icon-face-icon-png-favpng-kQqBnHR7jN8TxGRq3TJhqzewe.jpg">
     <link href='http://fonts.googleapis.com/css?family=Philosopher&subset=cyrillic' rel='stylesheet' type='text/css'>
     
-      <title>X a n z o</title>
+      <title>Xan365</title>
       
   </head>
 <html>
 <body>
-
-<h2>SIGN UP BRO</h2>
-
-
+<h2>Log in</h2>
   <input type="text" name="username" id="username">
   <input type="password" name="password" id="password">
   <input type="submit" value="Submit" onclick="login()">
-
-
-
 <script>
   function login(){
     console.log("Submit")
     username = document.getElementById("username");
     password = document.getElementById('password');
-
     if(username.value == "sanzhar" && password.value == "12345"){
       console.log("Correct username and password");
       window.location.replace("portfolio.html");
     }
   }
 </script>
-
 </body>
 </html>
+
