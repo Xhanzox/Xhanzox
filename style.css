@@ -20,7 +20,7 @@
     text-decoration: none;
   }
   a:hover {
-    color:rgb(40, 86, 172);
+    color:rgb(66, 123, 189);
     text-decoration: none;
   }
 
@@ -34,8 +34,14 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    color:  #000009;
+    color:  #000000;
     font-family: 'Fascinate', cursive;
+  }
+  .bg{
+     background-image: url(https://wallpaperaccess.com/full/933175.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
   }
   p{
     font-size: 50px;
@@ -43,16 +49,7 @@
     text-align: center;
     
   }
-input {
-  background-color: rgba(0, 0, 0, 0.377);
-}
+  input {    
+  background-color: rgba(0, 0, 0, 0.267);
 
-    color:  #000009;
-    font-family: 'Fascinate', cursive;
-  }
-  p{
-    font-size: 50px;
-    
-    text-align: center;
-    
-  }
+}
