@@ -43,3 +43,16 @@
     text-align: center;
     
   }
+input {
+  background-color: rgba(0, 0, 0, 0.377);
+}
+
+    color:  #000009;
+    font-family: 'Fascinate', cursive;
+  }
+  p{
+    font-size: 50px;
+    
+    text-align: center;
+    
+  }
